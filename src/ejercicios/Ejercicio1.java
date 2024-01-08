@@ -9,6 +9,7 @@ public class Ejercicio1 {
 		Scanner sc = new Scanner(System.in);
 		int n = 0;
 		//chicaa que disee
+		//aaa
 		
 		System.out.println("Diga un número");
 		n = sc.nextInt();
